@@ -1,1 +1,1 @@
-This is another mini project to practise fetch with React. This time using the Rebrandly API shorten user's provided link.
+This is another mini project to practise fetch with React. This time using the Rebrandly API to shorten user's provided link.
